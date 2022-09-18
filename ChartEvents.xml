@@ -1,0 +1,19 @@
+<Event>Wiggle</Event>
+<Value1>0.010</Value1>
+<Value2>WiggleArrows</Value2>
+<Value2>WiggleCharacter</Value2>
+<Value2></Value2>
+<Event>Arrow Bouncing</Event>
+<Value1>0.06</Value1>
+<Value2>Left</Value2>
+<Value2>Right</Value2>
+<Value2>Up</Value2>
+<Value2>Down</Value2>
+<Event>Flash</Event>
+<Value1></Value1>
+<Value2>0.01</Value2>
+<Value2>-0.01</Value2>
+<Event>Blur</Event>
+<Value1>0</Value1>
+<Value1>1</Value1>
+<Value2>0.010<Value2>
