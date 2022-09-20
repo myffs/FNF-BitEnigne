@@ -1,0 +1,8 @@
+  - name: Tar files
+    run: tar -cvf my_files.tar /path/to/my/directory
+
+  - name: Upload Artifact
+    uses: actions/upload-artifact@v3
+    with:
+      name: my-artifact
+      path: my_files.tar
