@@ -16,7 +16,7 @@ Also,dont get carried away cause of how fucking bad the engine is.
 * less pain ( if you know what i mean )
 ## Credits
 
-* MyFnf - coding
+* [MyFnf](https://gamejolt.com/@Lil_Drippy_) - coding
 ## things to know
 
 this engine is `constantly changing,`but every day you expect a update
