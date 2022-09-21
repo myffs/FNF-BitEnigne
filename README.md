@@ -13,7 +13,7 @@ Also,dont get carried away cause of how fucking bad the engine is.
 
 * mostly a engine focuing on the chart edtior
 * FIX EXE
-* BETTER CODE
+* `BETTER CODE`
 * less pain ( if you know what i mean )
 ## Credits
 
