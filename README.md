@@ -8,6 +8,7 @@ Also,dont get carried away cause of how fucking bad the engine is.
 * dumb ideas mixed up
 * NO,NOT WOSER THAN KADE ENGINE
 * bad code 💀
+* `messed up stuff` coming in the future
 ## Features/Future Features
 
 * mostly a engine focuing on the chart edtior
