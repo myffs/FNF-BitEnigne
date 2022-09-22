@@ -1,0 +1,12 @@
+{
+  "shapes" : [
+    {
+      "sides" : "3"
+      "name" : "triangle"
+    },
+    {
+      "sides" : "4"
+      "name" : "square"
+    }
+  ]
+}
