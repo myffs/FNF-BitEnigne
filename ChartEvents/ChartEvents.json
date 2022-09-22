@@ -1,0 +1,24 @@
+{
+ "events" : [
+    {
+     "Event" : "Wiggle",
+     "TextValue1" : "this will wiggle the screen around,(0.010) is default",
+     "TextValue2" : "if you don't want the screen to wiggle,simply type 'WiggleArrows' or 'WiggleCharacter',or leave it blank if you just want the screen to wiggle"
+    },
+    {
+     "Event" : "Arrow bouncing",
+     "TextValue1" : "this will bounce the arrow keys,( 0.06 ) is default",
+     "TextValue2" : "the movement,left,right,up,down"
+    },
+    {
+      "Event" :"Flash",
+      "TextValue1" : "if you are effected by bright flashes,please do not use this",
+      "TextValue2" : "0.01 is default,-0.01 is the darkness default"
+    },
+    {
+      "Event" : "blur",
+      "TextValue1" : "this will blur the screen,0 = on 1 = off",
+      "TextValue2" : "0.010 is default"
+    }
+ ]
+}
