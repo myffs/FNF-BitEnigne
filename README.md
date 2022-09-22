@@ -15,6 +15,10 @@ Also,dont get carried away cause of how fucking bad the engine is.
 * FIX EXE
 * `BETTER CODE`
 * less pain ( if you know what i mean )
+## Future plans 📓
+* To include a `source guide/zip`
+* Add more **COLLABORS**
+* Make the fucking engine better
 ## Credits
 
 * [MyFnf](https://gamejolt.com/@Lil_Drippy_) - coding
