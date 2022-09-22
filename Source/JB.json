@@ -1,0 +1,82 @@
+{
+ "Animations" : [
+    {
+     "loop" : "",
+     "Frame" : "001",
+     "AnimationName" : "SingLEFT"
+     },
+     {
+      "loop" : "",
+      "Frame" : "002",
+      "AnimationName" : "SingLEFT"
+    },
+    {
+     "loop" : "",
+     "Frame" : "003",
+     "AnimationName" : "SingLEFT"
+    },
+    {
+     "loop" : "",
+     "Frame" : "001",
+     "AnimationName" : "SingRIGHT"
+    },
+    {
+      "loop" : "",
+      "Frame" : "002",
+      "AnimationName" :"SingRIGHT"
+    },
+    {
+     "loop" : "",
+     "Frame" : "003",
+     "AnimationName" : "SingRIGHT"
+    },
+    {
+      "loop" : "",
+      "Frame": "001",
+      "AnimationName" : "SingUP"
+    },
+    {
+      "loop" : "",
+      "Frame" : "002",
+      "AnimationName" : "SingUP"
+    },
+    {
+      "loop" : "",
+      "Frame" : "003",
+      "AnimationName" : "SingUP"
+    },
+    {
+      "loop" : "",
+      "Frame" : "001",
+      "AnimationName" : "SingDOWN"
+    },
+    {
+      "loop" : "",
+      "Frame" : "002",
+      "AnimationName" : "SingDOWN"
+    },
+    {
+     "loop" : "",
+     "Frame" : "003",
+     "AnimationName" : "SingDOWN"
+    },
+    {
+      "loop" : "",
+      "Frame" : "001",
+      "AnimationName" : "Idle"
+    },
+    {
+      "loop" : "",
+      "Frame" : "002",
+      "AnimationName" : "Idle"
+    },
+    {
+      "loop" : "",
+      "Frame" : "003",
+      "AnimationName" : "Idle"
+    },
+    {
+      "Image" : "images/JB.png"
+    }
+ ]
+}
