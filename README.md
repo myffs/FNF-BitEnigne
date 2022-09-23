@@ -19,7 +19,7 @@ Also,dont get carried away cause of how fucking bad the engine is.
 * To include a `source guide/zip`
 * Add more **COLLABORS**
 * Make the fucking engine better
-## Creators
+## Credits
 
 * [MyFnf](https://gamejolt.com/@Lil_Drippy_) - coding
 ## things to know
@@ -32,4 +32,3 @@ i'm testing out new shit so the old shit is fucking better
 ## Credit ( for the inspiration part )
 
 * credits to [shadow mario](https://github.com/ShadowMario) for his cool [fnf engine ( psych engine )](https://github.com/ShadowMario/FNF-PsychEngine)
-
