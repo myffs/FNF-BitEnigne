@@ -1,5 +1,6 @@
 ## Friday Night Funkin' - Bit Enigne
-A engine that is really bad,yeah,really bad
+
+A engine that made a OG mod [Vs shrek 6 DEMO ](https://github.com/LilDrippyMyFnf/Vs-Shrek-6-DEMO),this engine is really bad,yeah,really bad
 you can also find this engine on [gamejolt.](https://gamejolt.com/games/bit-engine/747004)
 Also,dont get carried away cause of how fucking bad the engine is.
 ## inspiration from
@@ -33,3 +34,8 @@ i'm testing out new shit so the old shit is fucking better
 
 * credits to [shadow mario](https://github.com/ShadowMario) for his cool [fnf engine ( psych engine )](https://github.com/ShadowMario/FNF-PsychEngine)
 
+## Vs Shrek 6 DEMO
+
+this is a demo mod,using `bit engine` as its engine
+
+[check it out now!](https://github.com/LilDrippyMyFnf/Vs-Shrek-6-DEMO)
