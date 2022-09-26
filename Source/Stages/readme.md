@@ -1,3 +1,7 @@
+## hult! read this first!
+
+when making a stage,pls go to "images/stages" to add your custom stage,thank you!
+
 ## Stages
 
 stages are new,to add one,please use the instructions below
