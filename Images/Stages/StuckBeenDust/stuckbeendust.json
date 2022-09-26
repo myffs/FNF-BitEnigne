@@ -1,0 +1,10 @@
+{
+ "stages" : [
+  {
+   "BGname" : "stuckbeendustBG.png"
+  },
+  {
+   "image" : "stuckbeendustBG.png"
+   }
+  ]
+}
