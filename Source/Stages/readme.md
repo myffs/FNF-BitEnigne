@@ -26,4 +26,17 @@ now add a `"BGname : "your bg name.png"`
  ]
 }
 ```
+finally,add the `image name`
+```
+{
+ "stages" : [
+  {
+   "BGname" : "BGNAME.png"
+  },
+  {
+   "image" : "images/stages/stuckdustbeenBG.png"
+   }
+  ]
+}
+```
 and if you can't fucking understand json,just copy this shit in the .json file you make
