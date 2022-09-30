@@ -28,6 +28,7 @@ Also,dont get carried away cause of how fucking bad the engine is.
 
 * [MyFnf](https://gamejolt.com/@Lil_Drippy_) - coding
 * [MasterOak](https://gamejolt.com/@MasterOfOak) - Bug Handler
+* [StefanBETA2008](https://github.com/StefanBETA2008) - Helping
 ## things to know
 
 this engine is `constantly changing,`but every day you expect a update
