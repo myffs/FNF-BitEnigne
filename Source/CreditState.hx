@@ -82,12 +82,12 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Bit Engine Team'],
-			['MyFNF',		'shadowmario',		'Main Programmer of Bit Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
-			['StefanBETA2008',			'river',			'Main Helper of Bit Engine',							'https://twitter.com/RiverOaken',		'B42F71'],
-			['MemeHoovy',				'shubs',			'Good Person of Bit Engine',						'https://twitter.com/yoshubs',			'5E99DF'],
+			['MyFNF',		'my_fnf',		'Main Programmer of Bit Engine',								'https://github.com/LilDrippyMyFnf',	'444444'],
+			['StefanBETA2008',			'stefan',			'Main Helper of Bit Engine',							'https://github.com/StefanBETA2008',		'B42F71'],
+			['MemeHoovy',				'meme',			'Good Person of Bit Engine',						'https://github.com/MemeHoovy',			'5E99DF'],
 			[''],
 			['Former Engine Members'],
-			['MasterOak',			'bb',				'BugHandler of Bit Engine',								'https://twitter.com/bbsub3',			'3E813A'],
+			['MasterOak',			'masteroak',				'BugHandler of Bit Engine',								'https://github.com/MasterOak',			'3E813A'],
 			[''],
 			['Engine Contributors'],
 			['iFlicky',				'flicky',			'Composer of Psync and Tea Time\nMade the Dialogue Sounds',		'https://twitter.com/flicky_i',			'9E29CF'],
