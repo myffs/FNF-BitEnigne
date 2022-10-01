@@ -16,4 +16,9 @@
 <Event>Blur</Event>
 <Value1>0</Value1>
 <Value1>1</Value1>
-<Value2>0.010<Value2>
+<Value2>0.010</Value2>
+<Event>Blackout</Event>
+<Value1>bf</Value1>
+<Value1>gf</Value1>
+<Value1>dad</Value1>
+<Value2>0.010</Value2>
