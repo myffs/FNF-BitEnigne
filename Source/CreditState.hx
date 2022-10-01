@@ -103,9 +103,6 @@ class CreditsState extends MusicBeatState
 			['PhantomArcade',		'phantomarcade',	"Animator of Friday Night Funkin'",								'https://twitter.com/PhantomArcade3K',	'FADC45'],
 			['evilsk8r',			'evilsk8r',			"Artist of Friday Night Funkin'",								'https://twitter.com/evilsk8r',			'5ABD4B'],
 			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",								'https://twitter.com/kawaisprite',		'378FC7'],
-      [''],
-      ["Creators"],
-      ['MyFnf',      'myfnf', "the developer", 'https://gamejolt.com/@Lil_Drippy_', '#1EA1A1']
 		];
 		
 		for(i in pisspoop){
@@ -333,3 +330,5 @@ class CreditsState extends MusicBeatState
 		return creditsStuff[num].length <= 1;
 	}
 }
+
+//had to fix something shit-like
