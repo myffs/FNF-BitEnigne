@@ -8,4 +8,5 @@
 ["fuck", "die in tutorial 1,000 times", "21xp"],
 ["rapping star!", "beat a song on the scroll speed of 10", "57xp"],
 ["Your so funny UwU", "spam chart and arrow keys in tutorial", "65xp"],
+["OCTOBER THE WHAT?", "play this engine on october the 2th", "6xp"],
 [""]
