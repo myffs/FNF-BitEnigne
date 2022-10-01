@@ -1,4 +1,5 @@
 ## Friday Night Funkin' - Bit Enigne
+![](https://raw.githubusercontent.com/LilDrippyMyFnf/FNF-BitEnigne/main/BitEngine_logo.png)
 
 A engine that made a OG mod [Vs shrek 6 DEMO ](https://github.com/LilDrippyMyFnf/Vs-Shrek-6-DEMO),this engine is really bad,yeah,really bad
 you can also find this engine on [gamejolt.](https://gamejolt.com/games/bit-engine/747004)
