@@ -2,10 +2,6 @@ package;
 
 import Song.SwagSong;
 
-/**
- * ...
- * @author
- */
 
 typedef BPMChangeEvent =
 {
@@ -16,6 +12,7 @@ typedef BPMChangeEvent =
 
 class Conductor
 {
+	public static var timeSigature:Array<Int> = [4,4]; // numerator and denominator
 	public static var bpm:Int = 100;
 	public static var crochet:Float = ((60 / bpm) * 1000); // beats in milliseconds
 	public static var stepCrochet:Float = crochet / 4; // steps in milliseconds
