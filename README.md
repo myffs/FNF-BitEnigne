@@ -31,8 +31,8 @@ Also,dont get carried away cause of how fucking bad the engine is.
 * [StefanBETA2008](https://github.com/StefanBETA2008) - Helping
 ## things to know
 
-this engine is `constantly changing,`but every day you expect a update
-i'm testing out new shit so the old shit is fucking better
+this engine is `constantly changing,`but NOT every day you expect a update.
+i'm testing out new vanilla features so the old stuff is being `reworked`
 
 ![Screenshot_1](https://github.com/LilDrippyMyFnf/Bit-Enigne/blob/main/Screenshot%202022-09-20%205.48.23%20PM.png)
 
