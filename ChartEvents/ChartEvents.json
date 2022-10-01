@@ -19,6 +19,11 @@
       "Event" : "blur",
       "TextValue1" : "this will blur the screen,0 = on 1 = off",
       "TextValue2" : "0.010 is default"
-    }
+    },
+  {
+   "Event" : "Blackout",
+   "TextValue1" : "i already made a fucking .hx file...,who's fucking out,bf,gf,dad",
+   "TextValue2" : "Intenseity,how hard are they fucking up,0.010 is default"
+  }
  ]
 }
