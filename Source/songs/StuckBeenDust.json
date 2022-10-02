@@ -3,7 +3,7 @@
     {
       "character1" : "BF",
       "character2" : "JB",
-      "BPM" : "150", //i think the bpm is wrong :skull:
+      "BPM" : "150",
       "ScrollSpeed" : "2.7"
     },
     {
@@ -23,7 +23,7 @@
       "note" : "{__P2__001__}",
       "Section" : "7 / 50",
       "note" : "{__P2__004__}",
-       "note" : "{__P2__4hx3__}", //the 'H' is a hold note,the x3 is how long it is
+       "note" : "{__P2__4hx3__}",
       "Section" : "8 / 50",
       "note" : "{__P1__001__}",
       "Section" : "9 / 50",
@@ -41,7 +41,7 @@
       "Section" : "15 / 50",
       "note" : "{__P2__004__}",
       "Section" : "16 / 50",
-      "note" : "{__PB__4hx3__}", //the 'PB' is both of them singing
+      "note" : "{__PB__4hx3__}",
       "Section" : "17 / 50",
       "note" : "{__P2__001__}",
       "Section" : "18 / 50",
