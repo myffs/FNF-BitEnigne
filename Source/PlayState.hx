@@ -990,6 +990,9 @@ class PlayState extends MusicBeatState {
 		var playerCounter:Int = 0;
 
 		var daBeats:Int = 0; // Not exactly representative of 'daBeats' lol, just how much it has looped
+
+		var curDenominator = Conductor.timeSignature[1];
+
 		for (section in noteData) {
 			var coolSection:Int = Std.int(section.lengthInSteps / 4);
 
@@ -1040,9 +1043,6 @@ class PlayState extends MusicBeatState {
 			}
 			daBeats += 1;
 		}
-
-		// trace(unspawnNotes.length);
-		// playerCounter += 1;
 
 		unspawnNotes.sort(sortByShit);
 
