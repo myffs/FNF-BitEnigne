@@ -56,11 +56,15 @@ class Conductor
 		trace("new BPM map BUDDY " + bpmChangeMap);
 	}
 
+	inline public static function calculateCrochet(bpm:Float){
+		return (60/bpm)*1000;
+	}
+
 	public static function changeBPM(newBpm:Int)
 	{
 		bpm = newBpm;
 
-		crochet = ((60 / bpm) * 1000);
+		crochet = calculateCrochet(bpm);
 		stepCrochet = crochet / 4;
 	}
 }
