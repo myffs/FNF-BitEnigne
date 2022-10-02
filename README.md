@@ -1,7 +1,5 @@
 ## Friday Night Funkin' - Bit Enigne
-![](https://user-images.githubusercontent.com/97995998/193430088-90c780a8-bc89-4e2d-96c3-0e885d79e585.png)
-
-
+![62c00485288f9 (1)](https://user-images.githubusercontent.com/113801267/193470011-c05c71c9-9149-4450-a750-ec43469aa027.png)
 A engine that made a OG mod [Vs shrek 6 DEMO ](https://github.com/LilDrippyMyFnf/Vs-Shrek-6-DEMO),this engine is really bad,yeah,really bad
 you can also find this engine on [gamejolt.](https://gamejolt.com/games/bit-engine/747004)
 Also,dont get carried away cause of how fucking bad the engine is.
@@ -37,8 +35,7 @@ Also,dont get carried away cause of how fucking bad the engine is.
 this engine is `constantly changing,`but NOT every day you expect a update.
 i'm testing out new vanilla features so the old stuff is being `reworked`
 
-![Screenshot_1](https://github.com/LilDrippyMyFnf/Bit-Enigne/blob/main/Screenshot%202022-09-20%205.48.23%20PM.png)
-
+![Just doin' a funni](https://user-images.githubusercontent.com/113801267/193468549-b300f493-0f3e-4d01-a92e-364061ac5738.png)
 ## Credit ( for the inspiration part )
 
 * credits to [shadow mario](https://github.com/ShadowMario) for his cool [fnf engine ( psych engine )](https://github.com/ShadowMario/FNF-PsychEngine)
