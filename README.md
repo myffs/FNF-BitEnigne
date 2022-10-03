@@ -45,3 +45,20 @@ i'm testing out new vanilla features so the old stuff is being `reworked`
 this is a demo mod,using `bit engine` as its engine
 
 [check it out now!](https://github.com/LilDrippyMyFnf/Vs-Shrek-6-DEMO)
+
+## Android Port ( Vanilla ) 
+`idea from StefanBETA2008`
+
+If you hav'nt heard,there is a vanilla engine in early 2023 of this engine.
+
+## Features
+
+* Android port
+* Compiling
+* lua files
+* more haxe files
+* add HTML and make EXE file better
+
+![id](https://user-images.githubusercontent.com/113801267/193656942-aad25ccf-43d5-4d64-8928-4e7669e1a8ff.png)
+
+`this image was from stenfanBETA2008 on our discord server`
