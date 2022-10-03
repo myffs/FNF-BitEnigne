@@ -736,7 +736,7 @@ class PlayState extends MusicBeatState {
 					blackScreen.scrollFactor.set();
 					camHUD.visible = false;
 
-					new FlxTimer().start(0.1, function(tmr:FlxTimer) {
+					new FlxTimer().start(0.1, function(cum:FlxTimer) {
 						remove(blackScreen);
 						FlxG.sound.play(Paths.sound('Lights_Turn_On'));
 						camFollow.y = -2050;
@@ -744,7 +744,7 @@ class PlayState extends MusicBeatState {
 						FlxG.camera.focusOn(camFollow.getPosition());
 						FlxG.camera.zoom = 1.5;
 
-						new FlxTimer().start(0.8, function(tmr:FlxTimer) {
+						new FlxTimer().start(0.8, function(cum:FlxTimer) {
 							camHUD.visible = true;
 							remove(blackScreen);
 							FlxTween.tween(FlxG.camera, {zoom: defaultCamZoom}, 2.5, {
@@ -799,11 +799,11 @@ class PlayState extends MusicBeatState {
 			}
 		}
 
-		new FlxTimer().start(0.3, function(tmr:FlxTimer) {
+		new FlxTimer().start(0.3, function(cum:FlxTimer) {
 			black.alpha -= 0.15;
 
 			if (black.alpha > 0) {
-				tmr.reset(0.3);
+				cum.reset(0.3);
 			} else {
 				if (dialogueBox != null) {
 					inCutscene = true;
@@ -856,7 +856,7 @@ class PlayState extends MusicBeatState {
 
 		var swagCounter:Int = 0;
 
-		startTimer = new FlxTimer().start(Conductor.crochet / 1000, function(tmr:FlxTimer) {
+		startTimer = new FlxTimer().start(Conductor.crochet / 1000, function(cum:FlxTimer) {
 			dad.dance();
 			gf.dance();
 			boyfriend.playAnim('idle');
@@ -1945,7 +1945,7 @@ class PlayState extends MusicBeatState {
 			boyfriend.stunned = true;
 
 			// get stunned for 5 seconds
-			new FlxTimer().start(5 / 60, function(tmr:FlxTimer) {
+			new FlxTimer().start(5 / 60, function(cum:FlxTimer) {
 				boyfriend.stunned = false;
 			});
 
@@ -2042,7 +2042,7 @@ class PlayState extends MusicBeatState {
 
 		fastCar.velocity.x = (FlxG.random.int(170, 220) / FlxG.elapsed) * 3;
 		fastCarCanDrive = false;
-		new FlxTimer().start(2, function(tmr:FlxTimer) {
+		new FlxTimer().start(2, function(cum:FlxTimer) {
 			resetFastCar();
 		});
 	}
