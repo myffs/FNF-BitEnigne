@@ -91,7 +91,7 @@ class PlayState extends MusicBeatState {
 	private var camHUD:FlxCamera;
 	private var camGame:FlxCamera;
 
-	var dialogue:Array<String> = ['blah blah blah', 'coolswag'];
+	var dialogue:Array<String> = ['strange code', '>:]'];
 
 	var halloweenBG:FlxSprite;
 	var isHalloween:Bool = false;
@@ -721,11 +721,6 @@ class PlayState extends MusicBeatState {
 		scoreTxt.cameras = [camHUD];
 		doof.cameras = [camHUD];
 
-		// if (SONG.song == 'South')
-		// FlxG.camera.alpha = 0.7;
-		// UI_camera.zoom = 1;
-
-		// cameras = [FlxG.cameras.list[1]];
 		startingSong = true;
 
 		if (isStoryMode) {
@@ -965,7 +960,6 @@ class PlayState extends MusicBeatState {
 	var debugNum:Int = 0;
 
 	private function generateSong(dataPath:String):Void {
-		// FlxG.log.add(ChartParser.parse());
 
 		var songData = SONG;
 		Conductor.changeBPM(songData.bpm);
@@ -1055,7 +1049,6 @@ class PlayState extends MusicBeatState {
 
 	private function generateStaticArrows(player:Int):Void {
 		for (i in 0...4) {
-			// FlxG.log.add(i);
 			var babyArrow:FlxSprite = new FlxSprite(0, strumLine.y);
 
 			switch (curStage) {
@@ -1249,7 +1242,6 @@ class PlayState extends MusicBeatState {
 						trainFrameTiming = 0;
 					}
 				}
-				// phillyCityLights.members[curLight].alpha -= (Conductor.crochet / 1000) * FlxG.elapsed;
 		}
 
 		super.update(elapsed);
@@ -1307,9 +1299,6 @@ class PlayState extends MusicBeatState {
 			iconP2.animation.curAnim.curFrame = 1;
 		else
 			iconP2.animation.curAnim.curFrame = 0;
-
-		/* if (FlxG.keys.justPressed.NINE)
-			FlxG.switchState(new Charting()); */
 
 		#if debug
 		if (FlxG.keys.justPressed.EIGHT)
