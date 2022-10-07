@@ -26,10 +26,10 @@ Also,dont get carried away cause of how fucking bad the engine is.
 * Make the fucking engine better
 ## Creators
 
-* [MyFnf](https://gamejolt.com/@Lil_Drippy_) - main engine developer
-* [MasterOak](https://gamejolt.com/@MasterOfOak) - Bug Handler
-* [StefanBETA2008](https://github.com/StefanBETA2008) - Android porter
-* [MemeHoovy](https://linktr.ee/memehoovy) - complining the engine ( not yet )
+* MyFnf - main engine developer
+* MasterOak - Bug Handler
+* StefanBETA2008 - Android porter
+* MemeHoovy - complining the engine ( not yet )
 ## things to know
 
 this engine is `constantly changing,`but NOT every day you expect a update.
