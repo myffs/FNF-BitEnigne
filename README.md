@@ -46,7 +46,7 @@ this is a demo mod,using `bit engine` as its engine
 
 [check it out now!](https://github.com/LilDrippyMyFnf/Vs-Shrek-6-DEMO)
 
-## Android Port ( Vanilla ) 
+## Android Port ( Vanilla ) [ CANCELLED ]
 `idea from StefanBETA2008`
 
 If you hav'nt heard,there is a vanilla engine in early 2023 of this engine.
@@ -62,3 +62,9 @@ If you hav'nt heard,there is a vanilla engine in early 2023 of this engine.
 ![id](https://user-images.githubusercontent.com/113801267/193656942-aad25ccf-43d5-4d64-8928-4e7669e1a8ff.png)
 
 `this image was from stenfanBETA2008 on our discord server`
+
+## Why the vanilla edtion got cancelled?
+
+* not much stuff added
+* not interesting for the team
+* not enough time/ideas
