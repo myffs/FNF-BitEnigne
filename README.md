@@ -26,10 +26,14 @@ Also,dont get carried away cause of how fucking bad the engine is.
 * Make the fucking engine better
 ## Creators
 
-* MyFnf - main engine developer
+* MyFnf - engine developer
 * MasterOak - Bug Handler
 * StefanBETA2008 - Android porter
 * MemeHoovy - complining the engine ( not yet )
+## Special thanks
+
+* ArtableBOX - lua programming
+
 ## things to know
 
 this engine is `constantly changing,`but NOT every day you expect a update.
