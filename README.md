@@ -1,8 +1,6 @@
 ## Friday Night Funkin' - Bit Enigne
 ![62c00485288f9 (1)](https://user-images.githubusercontent.com/113801267/193470011-c05c71c9-9149-4450-a750-ec43469aa027.png)
-A engine that made a OG mod [Vs shrek 6 DEMO ](https://github.com/LilDrippyMyFnf/Vs-Shrek-6-DEMO),this engine is really bad,yeah,really bad
-you can also find this engine on [gamejolt.](https://gamejolt.com/games/bit-engine/747004)
-Also,dont get carried away cause of how fucking bad the engine is.
+A engine that created the VS shrek 6 DEMO mod
 
 ## Setup
 * vs code must be used
