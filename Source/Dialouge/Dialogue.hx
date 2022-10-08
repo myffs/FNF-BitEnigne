@@ -1,12 +1,17 @@
+package;
+
+import.readme.txt
+
 class dialouge {
   ["Swaggy","P"]
 }
 //adding the dialouge
 
-if#
+#if
 pressing?('P')
 add(newtext)
-else#
+#else
   class dialouge{
-    ["Swaggy","P"]
+    (newtext
+    ["Swaggy","P"])
   }
