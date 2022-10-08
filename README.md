@@ -3,27 +3,27 @@
 A engine that made a OG mod [Vs shrek 6 DEMO ](https://github.com/LilDrippyMyFnf/Vs-Shrek-6-DEMO),this engine is really bad,yeah,really bad
 you can also find this engine on [gamejolt.](https://gamejolt.com/games/bit-engine/747004)
 Also,dont get carried away cause of how fucking bad the engine is.
+
+## Setup
+* vs code must be used
+* no compiling yet ( soon there will )
+
+## VS CODE
+![Screenshot 2022-10-08 5 35 12 PM](https://user-images.githubusercontent.com/113801267/194728548-700c6c15-da69-4e24-beb7-8c2ba4463ef1.png)
+
+```
+install vs code
+this engine won't be able to define its self if its not vs code
+here's the link
+https://code.visualstudio.com/
+```
+
 ## inspiration from
 
-* Shadow mario's [psych engine,( download it )](https://github.com/ShadowMario/FNF-PsychEngine)
-* dumb ideas mixed up
-* NO,NOT WOSER THAN KADE ENGINE
-* bad code 💀
-* `messed up stuff` coming in the future
-## Requirements
-* Vs code
-* to understand haxe,javascript,json, and xml
+* Psych Engine
+* Bitty Witty
+* Random thoughts and ideas
 
-## Features/Future Features
-
-* mostly a engine focuing on the chart edtior
-* FIX EXE
-* `BETTER CODE`
-* less pain ( if you know what i mean )
-## Future plans 📓
-* To include a `source guide/zip`
-* Add more **COLLABORS**
-* Make the fucking engine better
 ## Creators
 
 * MyFnf - engine developer
