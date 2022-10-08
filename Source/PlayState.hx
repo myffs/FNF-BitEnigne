@@ -119,6 +119,8 @@ class PlayState extends MusicBeatState {
 
 	var defaultCamZoom:Float = 1.05;
 
+	public var stepsFuncs:Array<HardcodedEvents> = [];
+
 	// how big to stretch the pixel art assets
 	public static var daPixelZoom:Float = 6;
 
@@ -132,6 +134,17 @@ class PlayState extends MusicBeatState {
 	var detailsText:String = "";
 	var detailsPausedText:String = "";
 	#end
+
+	function pushStepEvent(callback:Void->Void, step:Int){
+		stepsFuncs.push(new HardcodedEvents(callback, step));
+	}
+
+	public var camBeat:Int = 4;
+	/*
+		pushStepEvent(function(), yourstephere{
+			camBeat = 1;
+		});
+	*/
 
 	override public function create() {
 		if (FlxG.sound.music != null)
@@ -2137,7 +2150,7 @@ class PlayState extends MusicBeatState {
 			camHUD.zoom += 0.03;
 		}
 
-		if (camZooming && FlxG.camera.zoom < 1.35 && curBeat % 4 == 0) {
+		if (camZooming && FlxG.camera.zoom < 1.35 && curBeat % camBeat == 0) {
 			FlxG.camera.zoom += 0.015;
 			camHUD.zoom += 0.03;
 		}
