@@ -1,17 +1,15 @@
 package;
 
-import.readme.txt
-
-class dialouge {
-  ["Swaggy","P"]
+class DialougeState {
+  var dialouge1:Array<String> = ["Swaggy","P"];
 }
 //adding the dialouge
 
-#if
-pressingkey;'P'
+/*if#
+pressing?('P')
 add(newtext)
-#else
+else#
   class dialouge{
-    (newtext
-    "Swaggy","P")
+    ["Swaggy","P"]
   }
+*/
