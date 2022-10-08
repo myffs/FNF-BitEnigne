@@ -8,10 +8,10 @@ class dialouge {
 //adding the dialouge
 
 #if
-pressing?('P')
+pressingkey;'P'
 add(newtext)
 #else
   class dialouge{
     (newtext
-    ["Swaggy","P"])
+    "Swaggy","P")
   }
