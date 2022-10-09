@@ -39,3 +39,6 @@ class DumbKidLol extends RealDumbass
     }
 }
 //you know i had to do it to em
+
+git fetch origin
+git checkout 27-make-a-reworked-chart-editor
