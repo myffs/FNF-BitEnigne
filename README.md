@@ -27,7 +27,7 @@ https://code.visualstudio.com/
 * MyFnf - engine developer
 * MasterOak - Bug Handler
 * StefanBETA2008 - Android porter
-* MemeHoovy - complining the engine ( not yet )
+* MemeHoovy - complining the engine
 ## Special thanks
 
 * ArtableBOX - lua programming
