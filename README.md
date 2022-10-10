@@ -31,6 +31,7 @@ https://code.visualstudio.com/
 ## Special thanks
 
 * ArtableBOX - lua programming
+* WarlyFarly_GitHub! - a lil member
 
 ## things to know
 
