@@ -32,6 +32,7 @@ https://code.visualstudio.com/
 
 * ArtableBOX - lua programming
 * WarlyFarly_GitHub! - a lil member
+* MMbay64 - the guy who loves make pull requests 💀
 
 ## things to know
 
