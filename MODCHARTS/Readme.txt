@@ -1,2 +1,2 @@
 Add your modcharts here!
-It must include SONGNAME_MODCHARTNAME.lua
+It must include MODCHARTNAME.lua
