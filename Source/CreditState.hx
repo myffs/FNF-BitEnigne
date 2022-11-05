@@ -82,12 +82,14 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Bit Engine Team'],
-			['MyFNF',		'my_fnf',		'Main Programmer of Bit Engine',								'https://github.com/LilDrippyMyFnf',	'444444'],
-			['StefanBETA2008',			'stefan',			'Main Helper of Bit Engine',							'https://github.com/StefanBETA2008',		'B42F71'],
-			['MemeHoovy',				'meme',			'Good Person of Bit Engine',						'https://github.com/MemeHoovy',			'5E99DF'],
-			[''],
-			['Former Engine Members'],
-			['MasterOak',			'masteroak',				'BugHandler of Bit Engine',								'https://github.com/MasterOak',			'3E813A'],
+			['MyFnf',		'my',		'Main Programmer of Bit Engine',								'https://twitter.com/goofyahhemoboi',	'429E9D'],
+			['MasterOak',			'oak',			'Bug Handler',							'https://github.com/MasterOak',		'3E813A'],
+			['Stefan[BETA]2008',				'2008',			'Android porter',						'https://github.com/StefanBETA2008',			'B42F71'],
+			['MemeHoovy',                       'meme',                            'Compile helper',                                   'https://github.com/MemeHoovy',                                       '5E99DF'],
+			['Engine Contributors'],
+			['ArtableBOX',                    'box',                                 'lua programmer',                                        'https://github.com/ArtableBOX',                'FFFFFF'
+			['WarlyFarly_GitHub!',			'hub',				'a lil member',								'https://github.com/WarlyFarly_GitHub!',			'3E813A'],
+			['MMbay64',                              '64',                        'headache',                                   'https://github.com/MMbay64',                       'FFFFFF'],
 			[''],
 			['Engine Contributors'],
 			['iFlicky',				'flicky',			'Composer of Psync and Tea Time\nMade the Dialogue Sounds',		'https://twitter.com/flicky_i',			'9E29CF'],
