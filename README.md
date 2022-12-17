@@ -2,6 +2,10 @@
 ![62c00485288f9 (1)](https://user-images.githubusercontent.com/113801267/193470011-c05c71c9-9149-4450-a750-ec43469aa027.png)
 A engine that created the VS shrek 6 DEMO mod
 
+## THIS IS A OUTDATED ENGINE,NEW ENGINE ---> ECHO ENGINE
+
+go here --> https://github.com/LilDrippyMyFnf/Fnf-EchoEngine
+
 ## Setup
 * vs code must be used
 * no compiling yet ( soon there will )
