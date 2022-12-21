@@ -1,0 +1,84 @@
+{
+  "Reset" :[
+    {
+     "update" : "0.8",
+      "reset" : "true"
+    },
+    {
+     "update" : "0.9",
+     "reset"  : "true"
+    },
+    {
+        "update" : "1.0",
+         "reset" : "true"
+       },
+       {
+        "update" : "1.5",
+        "reset"  : "true"
+       },
+       {
+        "update" : "2.0",
+         "reset" : "true"
+       },
+       {
+        "update" : "3.0VANILLA",
+        "reset"  : "true"
+       },
+       {
+           "update" : "3.0ANDROID",
+            "reset" : "true"
+          },
+          {
+           "update" : "3.0CANCELLED",
+           "reset"  : "true"
+          },
+          {
+            "update" : "3.1",
+             "reset" : "true"
+           },
+           {
+            "update" : "3.2beta",
+            "reset"  : "true"
+           },
+           {
+               "update" : "3.2",
+                "reset" : "true"
+              },
+              {
+               "update" : "4.0",
+               "reset"  : "true"
+              },
+              {
+               "update" : "4.7",
+                "reset" : "true"
+              },
+              {
+               "update" : "5.5",
+               "reset"  : "true"
+              },
+              {
+                  "update" : "6.8",
+                   "reset" : "false"
+                 },
+                 {
+                  "update" : "7.2",
+                  "reset"  : "false"
+                 },
+                 {
+                    "update" : "8.9",
+                     "reset" : "false"
+                   },
+                   {
+                    "update" : "9.5",
+                    "reset"  : "false"
+                   },
+                   {
+                       "update" : "10.6",
+                        "reset" : "false"
+                      },
+                      {
+                       "update" : "10.9",
+                       "reset"  : "false"
+                      }
+                 
+ ] }
