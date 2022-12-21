@@ -8,5 +8,10 @@ public static var AchievementsStuff:Array<dynamic> - [ //lil psych engine stuffy
                                   ["Slay...","watch the dancing henchmen die 100,000 times",false],
                                   ["SANTA GOT SHOT?","beat week 5 with no misses",          false],
                                   ["highschool got mad hot","beat week 6 with no misses",   false],
-                                  ["You just wanna make me cry","beat week 7 with no misses",true]
+                                  ["You just wanna make me cry","beat week 7 with no misses",true],
+                                  ["Old timer???","leave bit engine running for 5 years",     false]
         ];
+
+
+
+//its nearly impossible to get the old timer achievement
